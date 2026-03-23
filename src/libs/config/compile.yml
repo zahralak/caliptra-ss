@@ -11,5 +11,7 @@ targets:
     files:
       - $COMPILE_ROOT/rtl/sram_zeroization_gadget.sv
       - $COMPILE_ROOT/rtl/caliptra_ss_prim_assert_sec_cm.svh
+      - $COMPILE_ROOT/../../Common/BasicComponents/src/xilinx/sync_regs.sv
+      - $COMPILE_ROOT/../../Common/BasicComponents/src/xilinx/reset_synchronizer.sv
 
 
